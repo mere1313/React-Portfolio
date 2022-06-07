@@ -15,7 +15,6 @@ const Portfolio = () => {
           <h3>Current Portfolio</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/mere1313/Portfolio" className='btn'>Github</a>
-          <a href="home" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -36,6 +35,16 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
           <a href="https://github.com/mere1313/BirdGame" className='btn'>Github</a>
           <a href="https://birdgame-mered.herokuapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+          <img src={IMG2} alt="img1" />
+          </div>
+          <h3>Simple Validation Form</h3>
+          <div className="portfolio__item-cta">
+          <a href="https://github.com/mere1313/Validation-Website" className='btn'>Github</a>
+          <a href="https://validation-form-mered.herokuapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
