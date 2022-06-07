@@ -23,7 +23,7 @@ const Footer = () => {
       <a href=""><AiOutlineHome/></a>
       <a href="https://gr.linkedin.com/in/dimitrios-merentitis-software-engineer" target="_blank"><BsLinkedin/></a>
       <a href="https://www.instagram.com/mere.d" target="_blank" ><FaInstagram/></a>
-      <a href="https://www.facebook.com/" target="_blank" ><BsFacebook/></a> 
+      <a href="https://www.facebook.com/mere13" target="_blank" ><BsFacebook/></a> 
       </div>
 
       <div className="footer__copyright">
