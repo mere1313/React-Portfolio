@@ -17,35 +17,11 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Work on my own projects to develop UI design skills.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Develop a portfolio to showcase your UI design work.</p>
             </li>
           </ul>
         </article>
@@ -56,27 +32,27 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Full Stack Web Development.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>HTML5/CSS Development.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Custom Web App Development.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>CMS Design and Development.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Data Migration, Support and Maintenance.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Build future-proof web products</p>
             </li>
           </ul>
         </article>
@@ -88,31 +64,19 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Set clear goals</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Develop a design vision.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Analyze and iterate.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Dimitrios my name is Mered</p>
+              <p>Measure and optimize.</p>
             </li>
           </ul>
         </article>

@@ -23,26 +23,26 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon' />
-              <h5>Clients</h5>
-              <small>200+ worldwide</small>
+              <h5>Teamwork</h5>
+              <small>Experienced</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>See My Portfolio</small>
+              <small>See Portfolio</small>
             </article>
           </div>
           <p>
-          Software engineers focus on applying the principles
-           of engineering to software development. Their role
-            includes analyzing and modifying existing software
-             as well as designing, constructing and testing
-              end-user applications that meet user needs — all
-               through software programming languages
+          I'm looking to set some long term goals now. I realised 
+          i'm being sidetracked by all the different technologies coming out 
+          and I really want to settle down and focus on one thing. I believe 
+          setting a definite goal will help me 
+          achieve that. I know goals are personal and unique, 
+          but I'm sure I can get some inspiration from someone.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

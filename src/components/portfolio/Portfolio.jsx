@@ -24,14 +24,14 @@ const Portfolio = () => {
           <h3>Simple Portfolio</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/mere1313/Portfolio-Simple-Website" className='btn'>Github</a>
-          <a href="https://portofolio-simple.herokuapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://portfolio-simple-mered.herokuapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
           <img src={IMG2} alt="img1" />
           </div>
-          <h3>Simple BirdGame</h3>
+          <h3>Bounce Game</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/mere1313/BirdGame" className='btn'>Github</a>
           <a href="https://birdgame-mered.herokuapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -41,7 +41,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
           <img src={IMG2} alt="img1" />
           </div>
-          <h3>Simple Validation Form</h3>
+          <h3>Validation Form</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/mere1313/Validation-Website" className='btn'>Github</a>
           <a href="https://validation-form-mered.herokuapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -51,10 +51,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
           <img src={IMG2} alt="img1" />
           </div>
-          <h3>Simple SaladBar</h3>
+          <h3>Ice-Cream Website</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/mere1313/SaladBar-MereD" className='btn'>Github</a>
-          <a href="https://salad-bar-mered.herokuapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://github.com/mere1313/ice-cream-website" className='btn'>Github</a>
+          <a href="https://ice-cream-website-mered.herokuapp.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
       </div>
